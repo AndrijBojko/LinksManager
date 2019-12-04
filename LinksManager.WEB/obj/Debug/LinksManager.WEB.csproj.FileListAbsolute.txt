@@ -1,0 +1,126 @@
+C:\Users\boyko\OneDrive\Документи\Visual Studio 2015\Projects\Links Manager\LinksManager.WEB\bin\roslyn\csc.exe
+C:\Users\boyko\OneDrive\Документи\Visual Studio 2015\Projects\Links Manager\LinksManager.WEB\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\boyko\OneDrive\Документи\Visual Studio 2015\Projects\Links Manager\LinksManager.WEB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\boyko\OneDrive\Документи\Visual Studio 2015\Projects\Links Manager\LinksManager.WEB\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\boyko\OneDrive\Документи\Visual Studio 2015\Projects\Links Manager\LinksManager.WEB\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\boyko\OneDrive\Документи\Visual Studio 2015\Projects\Links Manager\LinksManager.WEB\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\boyko\OneDrive\Документи\Visual Studio 2015\Projects\Links Manager\LinksManager.WEB\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\boyko\OneDrive\Документи\Visual Studio 2015\Projects\Links Manager\LinksManager.WEB\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\boyko\OneDrive\Документи\Visual Studio 2015\Projects\Links Manager\LinksManager.WEB\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\boyko\OneDrive\Документи\Visual Studio 2015\Projects\Links Manager\LinksManager.WEB\bin\roslyn\vbc.exe
+C:\Users\boyko\OneDrive\Документи\Visual Studio 2015\Projects\Links Manager\LinksManager.WEB\bin\roslyn\VBCSCompiler.exe
+C:\Users\boyko\OneDrive\Документи\Visual Studio 2015\Projects\Links Manager\LinksManager.WEB\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\boyko\OneDrive\Документи\Visual Studio 2015\Projects\Links Manager\LinksManager.WEB\bin\LinksManager.WEB.dll.config
+C:\Users\boyko\OneDrive\Документи\Visual Studio 2015\Projects\Links Manager\LinksManager.WEB\bin\LinksManager.WEB.dll
+C:\Users\boyko\OneDrive\Документи\Visual Studio 2015\Projects\Links Manager\LinksManager.WEB\bin\LinksManager.WEB.pdb
+C:\Users\boyko\OneDrive\Документи\Visual Studio 2015\Projects\Links Manager\LinksManager.WEB\bin\LinksManager.DAL.dll
+C:\Users\boyko\OneDrive\Документи\Visual Studio 2015\Projects\Links Manager\LinksManager.WEB\bin\LinksManager.Entities.dll
+C:\Users\boyko\OneDrive\Документи\Visual Studio 2015\Projects\Links Manager\LinksManager.WEB\bin\LinksManager.Services.dll
+C:\Users\boyko\OneDrive\Документи\Visual Studio 2015\Projects\Links Manager\LinksManager.WEB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\boyko\OneDrive\Документи\Visual Studio 2015\Projects\Links Manager\LinksManager.WEB\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\boyko\OneDrive\Документи\Visual Studio 2015\Projects\Links Manager\LinksManager.WEB\bin\Newtonsoft.Json.dll
+C:\Users\boyko\OneDrive\Документи\Visual Studio 2015\Projects\Links Manager\LinksManager.WEB\bin\System.Net.Http.Formatting.dll
+C:\Users\boyko\OneDrive\Документи\Visual Studio 2015\Projects\Links Manager\LinksManager.WEB\bin\System.Web.Helpers.dll
+C:\Users\boyko\OneDrive\Документи\Visual Studio 2015\Projects\Links Manager\LinksManager.WEB\bin\System.Web.Http.dll
+C:\Users\boyko\OneDrive\Документи\Visual Studio 2015\Projects\Links Manager\LinksManager.WEB\bin\System.Web.Http.WebHost.dll
+C:\Users\boyko\OneDrive\Документи\Visual Studio 2015\Projects\Links Manager\LinksManager.WEB\bin\System.Web.Mvc.dll
+C:\Users\boyko\OneDrive\Документи\Visual Studio 2015\Projects\Links Manager\LinksManager.WEB\bin\System.Web.Razor.dll
+C:\Users\boyko\OneDrive\Документи\Visual Studio 2015\Projects\Links Manager\LinksManager.WEB\bin\System.Web.Webpages.Deployment.dll
+C:\Users\boyko\OneDrive\Документи\Visual Studio 2015\Projects\Links Manager\LinksManager.WEB\bin\System.Web.Webpages.dll
+C:\Users\boyko\OneDrive\Документи\Visual Studio 2015\Projects\Links Manager\LinksManager.WEB\bin\System.Web.Webpages.Razor.dll
+C:\Users\boyko\OneDrive\Документи\Visual Studio 2015\Projects\Links Manager\LinksManager.WEB\bin\EntityFramework.dll
+C:\Users\boyko\OneDrive\Документи\Visual Studio 2015\Projects\Links Manager\LinksManager.WEB\bin\LinksManager.DAL.pdb
+C:\Users\boyko\OneDrive\Документи\Visual Studio 2015\Projects\Links Manager\LinksManager.WEB\bin\LinksManager.Entities.pdb
+C:\Users\boyko\OneDrive\Документи\Visual Studio 2015\Projects\Links Manager\LinksManager.WEB\bin\LinksManager.Services.pdb
+C:\Users\boyko\OneDrive\Документи\Visual Studio 2015\Projects\Links Manager\LinksManager.WEB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\boyko\OneDrive\Документи\Visual Studio 2015\Projects\Links Manager\LinksManager.WEB\bin\System.Web.Razor.xml
+C:\Users\boyko\OneDrive\Документи\Visual Studio 2015\Projects\Links Manager\LinksManager.WEB\bin\System.Web.Webpages.xml
+C:\Users\boyko\OneDrive\Документи\Visual Studio 2015\Projects\Links Manager\LinksManager.WEB\bin\System.Web.Webpages.Deployment.xml
+C:\Users\boyko\OneDrive\Документи\Visual Studio 2015\Projects\Links Manager\LinksManager.WEB\bin\System.Web.Webpages.Razor.xml
+C:\Users\boyko\OneDrive\Документи\Visual Studio 2015\Projects\Links Manager\LinksManager.WEB\bin\System.Web.Helpers.xml
+C:\Users\boyko\OneDrive\Документи\Visual Studio 2015\Projects\Links Manager\LinksManager.WEB\bin\System.Web.Mvc.xml
+C:\Users\boyko\OneDrive\Документи\Visual Studio 2015\Projects\Links Manager\LinksManager.WEB\bin\Newtonsoft.Json.xml
+C:\Users\boyko\OneDrive\Документи\Visual Studio 2015\Projects\Links Manager\LinksManager.WEB\bin\System.Net.Http.Formatting.xml
+C:\Users\boyko\OneDrive\Документи\Visual Studio 2015\Projects\Links Manager\LinksManager.WEB\bin\System.Web.Http.xml
+C:\Users\boyko\OneDrive\Документи\Visual Studio 2015\Projects\Links Manager\LinksManager.WEB\bin\System.Web.Http.WebHost.xml
+C:\Users\boyko\OneDrive\Документи\Visual Studio 2015\Projects\Links Manager\LinksManager.WEB\bin\EntityFramework.xml
+C:\Users\boyko\OneDrive\Документи\Visual Studio 2015\Projects\Links Manager\LinksManager.WEB\bin\ru\System.Web.Razor.resources.dll
+C:\Users\boyko\OneDrive\Документи\Visual Studio 2015\Projects\Links Manager\LinksManager.WEB\bin\ru\System.Web.Webpages.resources.dll
+C:\Users\boyko\OneDrive\Документи\Visual Studio 2015\Projects\Links Manager\LinksManager.WEB\bin\ru\System.Web.Webpages.Deployment.resources.dll
+C:\Users\boyko\OneDrive\Документи\Visual Studio 2015\Projects\Links Manager\LinksManager.WEB\bin\ru\System.Web.Webpages.Razor.resources.dll
+C:\Users\boyko\OneDrive\Документи\Visual Studio 2015\Projects\Links Manager\LinksManager.WEB\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\boyko\OneDrive\Документи\Visual Studio 2015\Projects\Links Manager\LinksManager.WEB\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\boyko\OneDrive\Документи\Visual Studio 2015\Projects\Links Manager\LinksManager.WEB\bin\ru\System.Net.Http.Formatting.resources.dll
+C:\Users\boyko\OneDrive\Документи\Visual Studio 2015\Projects\Links Manager\LinksManager.WEB\bin\ru\System.Web.Http.resources.dll
+C:\Users\boyko\OneDrive\Документи\Visual Studio 2015\Projects\Links Manager\LinksManager.WEB\bin\ru\System.Web.Http.WebHost.resources.dll
+C:\Users\boyko\OneDrive\Документи\Visual Studio 2015\Projects\Links Manager\LinksManager.WEB\bin\ru\EntityFramework.resources.dll
+C:\Users\boyko\OneDrive\Документи\Visual Studio 2015\Projects\Links Manager\LinksManager.WEB\obj\Debug\LinksManager.WEB.csprojResolveAssemblyReference.cache
+C:\Users\boyko\OneDrive\Документи\Visual Studio 2015\Projects\Links Manager\LinksManager.WEB\obj\Debug\LinksManager.WEB.dll
+C:\Users\boyko\OneDrive\Документи\Visual Studio 2015\Projects\Links Manager\LinksManager.WEB\obj\Debug\LinksManager.WEB.pdb
+C:\Users\boyko\OneDrive\Документи\Visual Studio 2015\Projects\Links Manager\LinksManager.WEB\bin\EntityFramework.SqlServer.dll
+C:\Users\boyko\OneDrive\Документи\Visual Studio 2015\Projects\Links Manager\LinksManager.WEB\bin\EntityFramework.SqlServer.xml
+C:\Users\boyko\OneDrive\Документи\Visual Studio 2015\Projects\Links Manager\LinksManager.WEB\bin\ru\EntityFramework.SqlServer.resources.dll
+F:\EPAM_LAB\INDIVIDUAL PROJECTS\Links Manager\LinksManager.WEB\bin\roslyn\csc.exe
+F:\EPAM_LAB\INDIVIDUAL PROJECTS\Links Manager\LinksManager.WEB\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\EPAM_LAB\INDIVIDUAL PROJECTS\Links Manager\LinksManager.WEB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\EPAM_LAB\INDIVIDUAL PROJECTS\Links Manager\LinksManager.WEB\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\EPAM_LAB\INDIVIDUAL PROJECTS\Links Manager\LinksManager.WEB\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\EPAM_LAB\INDIVIDUAL PROJECTS\Links Manager\LinksManager.WEB\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\EPAM_LAB\INDIVIDUAL PROJECTS\Links Manager\LinksManager.WEB\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\EPAM_LAB\INDIVIDUAL PROJECTS\Links Manager\LinksManager.WEB\bin\roslyn\System.Collections.Immutable.dll
+F:\EPAM_LAB\INDIVIDUAL PROJECTS\Links Manager\LinksManager.WEB\bin\roslyn\System.Reflection.Metadata.dll
+F:\EPAM_LAB\INDIVIDUAL PROJECTS\Links Manager\LinksManager.WEB\bin\roslyn\vbc.exe
+F:\EPAM_LAB\INDIVIDUAL PROJECTS\Links Manager\LinksManager.WEB\bin\roslyn\VBCSCompiler.exe
+F:\EPAM_LAB\INDIVIDUAL PROJECTS\Links Manager\LinksManager.WEB\bin\roslyn\VBCSCompiler.exe.config
+F:\EPAM_LAB\INDIVIDUAL PROJECTS\Links Manager\LinksManager.WEB\bin\LinksManager.WEB.dll.config
+F:\EPAM_LAB\INDIVIDUAL PROJECTS\Links Manager\LinksManager.WEB\bin\LinksManager.WEB.dll
+F:\EPAM_LAB\INDIVIDUAL PROJECTS\Links Manager\LinksManager.WEB\bin\LinksManager.WEB.pdb
+F:\EPAM_LAB\INDIVIDUAL PROJECTS\Links Manager\LinksManager.WEB\bin\EntityFramework.dll
+F:\EPAM_LAB\INDIVIDUAL PROJECTS\Links Manager\LinksManager.WEB\bin\EntityFramework.SqlServer.dll
+F:\EPAM_LAB\INDIVIDUAL PROJECTS\Links Manager\LinksManager.WEB\bin\LinksManager.DAL.dll
+F:\EPAM_LAB\INDIVIDUAL PROJECTS\Links Manager\LinksManager.WEB\bin\LinksManager.Entities.dll
+F:\EPAM_LAB\INDIVIDUAL PROJECTS\Links Manager\LinksManager.WEB\bin\LinksManager.Services.dll
+F:\EPAM_LAB\INDIVIDUAL PROJECTS\Links Manager\LinksManager.WEB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\EPAM_LAB\INDIVIDUAL PROJECTS\Links Manager\LinksManager.WEB\bin\Microsoft.Web.Infrastructure.dll
+F:\EPAM_LAB\INDIVIDUAL PROJECTS\Links Manager\LinksManager.WEB\bin\Newtonsoft.Json.dll
+F:\EPAM_LAB\INDIVIDUAL PROJECTS\Links Manager\LinksManager.WEB\bin\System.Net.Http.Formatting.dll
+F:\EPAM_LAB\INDIVIDUAL PROJECTS\Links Manager\LinksManager.WEB\bin\System.Web.Helpers.dll
+F:\EPAM_LAB\INDIVIDUAL PROJECTS\Links Manager\LinksManager.WEB\bin\System.Web.Http.dll
+F:\EPAM_LAB\INDIVIDUAL PROJECTS\Links Manager\LinksManager.WEB\bin\System.Web.Http.WebHost.dll
+F:\EPAM_LAB\INDIVIDUAL PROJECTS\Links Manager\LinksManager.WEB\bin\System.Web.Mvc.dll
+F:\EPAM_LAB\INDIVIDUAL PROJECTS\Links Manager\LinksManager.WEB\bin\System.Web.Razor.dll
+F:\EPAM_LAB\INDIVIDUAL PROJECTS\Links Manager\LinksManager.WEB\bin\System.Web.Webpages.Deployment.dll
+F:\EPAM_LAB\INDIVIDUAL PROJECTS\Links Manager\LinksManager.WEB\bin\System.Web.Webpages.dll
+F:\EPAM_LAB\INDIVIDUAL PROJECTS\Links Manager\LinksManager.WEB\bin\System.Web.Webpages.Razor.dll
+F:\EPAM_LAB\INDIVIDUAL PROJECTS\Links Manager\LinksManager.WEB\bin\LinksManager.DAL.pdb
+F:\EPAM_LAB\INDIVIDUAL PROJECTS\Links Manager\LinksManager.WEB\bin\LinksManager.DAL.dll.config
+F:\EPAM_LAB\INDIVIDUAL PROJECTS\Links Manager\LinksManager.WEB\bin\LinksManager.Entities.pdb
+F:\EPAM_LAB\INDIVIDUAL PROJECTS\Links Manager\LinksManager.WEB\bin\LinksManager.Services.pdb
+F:\EPAM_LAB\INDIVIDUAL PROJECTS\Links Manager\LinksManager.WEB\bin\EntityFramework.xml
+F:\EPAM_LAB\INDIVIDUAL PROJECTS\Links Manager\LinksManager.WEB\bin\EntityFramework.SqlServer.xml
+F:\EPAM_LAB\INDIVIDUAL PROJECTS\Links Manager\LinksManager.WEB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\EPAM_LAB\INDIVIDUAL PROJECTS\Links Manager\LinksManager.WEB\bin\System.Web.Razor.xml
+F:\EPAM_LAB\INDIVIDUAL PROJECTS\Links Manager\LinksManager.WEB\bin\System.Web.Webpages.xml
+F:\EPAM_LAB\INDIVIDUAL PROJECTS\Links Manager\LinksManager.WEB\bin\System.Web.Webpages.Deployment.xml
+F:\EPAM_LAB\INDIVIDUAL PROJECTS\Links Manager\LinksManager.WEB\bin\System.Web.Webpages.Razor.xml
+F:\EPAM_LAB\INDIVIDUAL PROJECTS\Links Manager\LinksManager.WEB\bin\System.Web.Helpers.xml
+F:\EPAM_LAB\INDIVIDUAL PROJECTS\Links Manager\LinksManager.WEB\bin\System.Web.Mvc.xml
+F:\EPAM_LAB\INDIVIDUAL PROJECTS\Links Manager\LinksManager.WEB\bin\Newtonsoft.Json.xml
+F:\EPAM_LAB\INDIVIDUAL PROJECTS\Links Manager\LinksManager.WEB\bin\System.Net.Http.Formatting.xml
+F:\EPAM_LAB\INDIVIDUAL PROJECTS\Links Manager\LinksManager.WEB\bin\System.Web.Http.xml
+F:\EPAM_LAB\INDIVIDUAL PROJECTS\Links Manager\LinksManager.WEB\bin\System.Web.Http.WebHost.xml
+F:\EPAM_LAB\INDIVIDUAL PROJECTS\Links Manager\LinksManager.WEB\bin\ru\EntityFramework.resources.dll
+F:\EPAM_LAB\INDIVIDUAL PROJECTS\Links Manager\LinksManager.WEB\bin\ru\EntityFramework.SqlServer.resources.dll
+F:\EPAM_LAB\INDIVIDUAL PROJECTS\Links Manager\LinksManager.WEB\bin\ru\System.Web.Razor.resources.dll
+F:\EPAM_LAB\INDIVIDUAL PROJECTS\Links Manager\LinksManager.WEB\bin\ru\System.Web.Webpages.resources.dll
+F:\EPAM_LAB\INDIVIDUAL PROJECTS\Links Manager\LinksManager.WEB\bin\ru\System.Web.Webpages.Deployment.resources.dll
+F:\EPAM_LAB\INDIVIDUAL PROJECTS\Links Manager\LinksManager.WEB\bin\ru\System.Web.Webpages.Razor.resources.dll
+F:\EPAM_LAB\INDIVIDUAL PROJECTS\Links Manager\LinksManager.WEB\bin\ru\System.Web.Helpers.resources.dll
+F:\EPAM_LAB\INDIVIDUAL PROJECTS\Links Manager\LinksManager.WEB\bin\ru\System.Web.Mvc.resources.dll
+F:\EPAM_LAB\INDIVIDUAL PROJECTS\Links Manager\LinksManager.WEB\bin\ru\System.Net.Http.Formatting.resources.dll
+F:\EPAM_LAB\INDIVIDUAL PROJECTS\Links Manager\LinksManager.WEB\bin\ru\System.Web.Http.resources.dll
+F:\EPAM_LAB\INDIVIDUAL PROJECTS\Links Manager\LinksManager.WEB\bin\ru\System.Web.Http.WebHost.resources.dll
+F:\EPAM_LAB\INDIVIDUAL PROJECTS\Links Manager\LinksManager.WEB\obj\Debug\LinksManager.WEB.csprojResolveAssemblyReference.cache
+F:\EPAM_LAB\INDIVIDUAL PROJECTS\Links Manager\LinksManager.WEB\obj\Debug\LinksManager.WEB.csproj.CoreCompileInputs.cache
+F:\EPAM_LAB\INDIVIDUAL PROJECTS\Links Manager\LinksManager.WEB\obj\Debug\LinksManager.WEB.dll
+F:\EPAM_LAB\INDIVIDUAL PROJECTS\Links Manager\LinksManager.WEB\obj\Debug\LinksManager.WEB.pdb

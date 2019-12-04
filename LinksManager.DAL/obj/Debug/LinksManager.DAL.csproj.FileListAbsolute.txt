@@ -1,0 +1,29 @@
+C:\Users\boyko\OneDrive\Документи\Visual Studio 2015\Projects\Links Manager\LinksManager.DAL\bin\Debug\LinksManager.DAL.dll.config
+C:\Users\boyko\OneDrive\Документи\Visual Studio 2015\Projects\Links Manager\LinksManager.DAL\bin\Debug\LinksManager.DAL.dll
+C:\Users\boyko\OneDrive\Документи\Visual Studio 2015\Projects\Links Manager\LinksManager.DAL\bin\Debug\LinksManager.DAL.pdb
+C:\Users\boyko\OneDrive\Документи\Visual Studio 2015\Projects\Links Manager\LinksManager.DAL\bin\Debug\EntityFramework.dll
+C:\Users\boyko\OneDrive\Документи\Visual Studio 2015\Projects\Links Manager\LinksManager.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\boyko\OneDrive\Документи\Visual Studio 2015\Projects\Links Manager\LinksManager.DAL\bin\Debug\EntityFramework.xml
+C:\Users\boyko\OneDrive\Документи\Visual Studio 2015\Projects\Links Manager\LinksManager.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\boyko\OneDrive\Документи\Visual Studio 2015\Projects\Links Manager\LinksManager.DAL\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\boyko\OneDrive\Документи\Visual Studio 2015\Projects\Links Manager\LinksManager.DAL\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\boyko\OneDrive\Документи\Visual Studio 2015\Projects\Links Manager\LinksManager.DAL\obj\Debug\LinksManager.DAL.csprojResolveAssemblyReference.cache
+C:\Users\boyko\OneDrive\Документи\Visual Studio 2015\Projects\Links Manager\LinksManager.DAL\obj\Debug\LinksManager.DAL.dll
+C:\Users\boyko\OneDrive\Документи\Visual Studio 2015\Projects\Links Manager\LinksManager.DAL\obj\Debug\LinksManager.DAL.pdb
+C:\Users\boyko\OneDrive\Документи\Visual Studio 2015\Projects\Links Manager\LinksManager.DAL\bin\Debug\LinksManager.Entities.dll
+C:\Users\boyko\OneDrive\Документи\Visual Studio 2015\Projects\Links Manager\LinksManager.DAL\bin\Debug\LinksManager.Entities.pdb
+F:\EPAM_LAB\INDIVIDUAL PROJECTS\Links Manager\LinksManager.DAL\bin\Debug\LinksManager.DAL.dll.config
+F:\EPAM_LAB\INDIVIDUAL PROJECTS\Links Manager\LinksManager.DAL\bin\Debug\LinksManager.DAL.dll
+F:\EPAM_LAB\INDIVIDUAL PROJECTS\Links Manager\LinksManager.DAL\bin\Debug\LinksManager.DAL.pdb
+F:\EPAM_LAB\INDIVIDUAL PROJECTS\Links Manager\LinksManager.DAL\bin\Debug\EntityFramework.dll
+F:\EPAM_LAB\INDIVIDUAL PROJECTS\Links Manager\LinksManager.DAL\bin\Debug\EntityFramework.SqlServer.dll
+F:\EPAM_LAB\INDIVIDUAL PROJECTS\Links Manager\LinksManager.DAL\bin\Debug\LinksManager.Entities.dll
+F:\EPAM_LAB\INDIVIDUAL PROJECTS\Links Manager\LinksManager.DAL\bin\Debug\LinksManager.Entities.pdb
+F:\EPAM_LAB\INDIVIDUAL PROJECTS\Links Manager\LinksManager.DAL\bin\Debug\EntityFramework.xml
+F:\EPAM_LAB\INDIVIDUAL PROJECTS\Links Manager\LinksManager.DAL\bin\Debug\EntityFramework.SqlServer.xml
+F:\EPAM_LAB\INDIVIDUAL PROJECTS\Links Manager\LinksManager.DAL\bin\Debug\ru\EntityFramework.resources.dll
+F:\EPAM_LAB\INDIVIDUAL PROJECTS\Links Manager\LinksManager.DAL\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+F:\EPAM_LAB\INDIVIDUAL PROJECTS\Links Manager\LinksManager.DAL\obj\Debug\LinksManager.DAL.csprojResolveAssemblyReference.cache
+F:\EPAM_LAB\INDIVIDUAL PROJECTS\Links Manager\LinksManager.DAL\obj\Debug\LinksManager.DAL.csproj.CoreCompileInputs.cache
+F:\EPAM_LAB\INDIVIDUAL PROJECTS\Links Manager\LinksManager.DAL\obj\Debug\LinksManager.DAL.dll
+F:\EPAM_LAB\INDIVIDUAL PROJECTS\Links Manager\LinksManager.DAL\obj\Debug\LinksManager.DAL.pdb

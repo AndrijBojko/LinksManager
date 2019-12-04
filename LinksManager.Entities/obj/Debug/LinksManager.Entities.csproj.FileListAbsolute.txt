@@ -1,0 +1,11 @@
+C:\Users\boyko\OneDrive\Документи\Visual Studio 2015\Projects\Links Manager\LinksManager.Entities\bin\Debug\LinksManager.Entities.dll
+C:\Users\boyko\OneDrive\Документи\Visual Studio 2015\Projects\Links Manager\LinksManager.Entities\bin\Debug\LinksManager.Entities.pdb
+C:\Users\boyko\OneDrive\Документи\Visual Studio 2015\Projects\Links Manager\LinksManager.Entities\obj\Debug\LinksManager.Entities.dll
+C:\Users\boyko\OneDrive\Документи\Visual Studio 2015\Projects\Links Manager\LinksManager.Entities\obj\Debug\LinksManager.Entities.pdb
+C:\Users\boyko\OneDrive\Документи\Visual Studio 2015\Projects\Links Manager\LinksManager.Entities\obj\Debug\LinksManager.Entities.csprojResolveAssemblyReference.cache
+F:\EPAM_LAB\INDIVIDUAL PROJECTS\Links Manager\LinksManager.Entities\bin\Debug\LinksManager.Entities.dll
+F:\EPAM_LAB\INDIVIDUAL PROJECTS\Links Manager\LinksManager.Entities\bin\Debug\LinksManager.Entities.pdb
+F:\EPAM_LAB\INDIVIDUAL PROJECTS\Links Manager\LinksManager.Entities\obj\Debug\LinksManager.Entities.csprojResolveAssemblyReference.cache
+F:\EPAM_LAB\INDIVIDUAL PROJECTS\Links Manager\LinksManager.Entities\obj\Debug\LinksManager.Entities.csproj.CoreCompileInputs.cache
+F:\EPAM_LAB\INDIVIDUAL PROJECTS\Links Manager\LinksManager.Entities\obj\Debug\LinksManager.Entities.dll
+F:\EPAM_LAB\INDIVIDUAL PROJECTS\Links Manager\LinksManager.Entities\obj\Debug\LinksManager.Entities.pdb
